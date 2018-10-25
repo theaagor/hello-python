@@ -1,7 +1,7 @@
 data ={ "Name":" Maria Theresa Agor",
 "Spirit Animal":"Dog",
 "Reason":"I am a carefree person",
-"Hobby":"Reading ebooks and watching movies,animes,or kdramas",
+"Hobby":"read ebooks and watch movies,animes,or kdramas",
 "Profession":"Musician"
 }
 
