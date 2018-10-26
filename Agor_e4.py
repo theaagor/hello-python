@@ -8,5 +8,5 @@ inputted= userinput.split(",")
 P=geometry.triangle_perimeter(a,b,c)
 A=geometry.triangle_heronsarea(a,b,c)
 
-print("Perimeter: {:.4f}".format(P))
-print("Area: {:.4f}".format(A))
+print("Perimeter: {:.2f}".format(P))
+print("Area: {:.2f}".format(A))
