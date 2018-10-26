@@ -1,5 +1,12 @@
-number_input=input("Enter a comma separated list of numbers: " .split[","])
-user_input = float(number_input)
+number_input=input("Enter a comma separated list of numbers: ")
+user_input = number_input.split(",")
 
-for x in range(user_input):
+accumulator=0
+index=0
+
+for x in user_input:
+    accumulator += float(user_input[index])**2
+    index += 1
+
+print("Sum of squares:", accumulator)
     
